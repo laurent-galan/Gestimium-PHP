@@ -1,0 +1,56 @@
+body {
+  background-image: url("http://88.127.124.43:32768/share/-arQhvgHnX85xTuf/desk-3076954_1920.jpg ");
+  background-size: cover;
+  padding: 2rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  line-height: 1.5;
+  font-size: 1.3em;
+  list-style-type: none;
+}
+
+.card {
+  width: 300px;
+  border-radius: 20%;
+}
+.card h2 {
+  text-align: center;
+}
+
+.line {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+.preparation {
+  background-color: #107fc967;
+}
+.en_cours {
+  background-color: #19babdad;
+}
+.sale {
+  background-color: #30e162a1;
+}
+.tiers {
+  background-color: #ff4e2ab0;
+}
+.charge {
+  background-color: #ffdd1fad;
+}
+.compte {
+  background-color: #ff43d0af;
+}
+
+.navbar {
+  background-color: #c8cfc771;
+  border: 1px solid #c8cfc771;
+}
